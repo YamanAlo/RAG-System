@@ -59,11 +59,7 @@ pip install -r requirements.txt
   - Query complexity
   - Number of retrieved documents
   - Reranking process
+  - 
+## Closed Source
 
-## Contributing
-
-Contributions are welcome! Please feel free to submit a Pull Request.
-
-## License
-
-This project is licensed under the MIT License - see the LICENSE file for details. 
+This project is not open source and its code is not publicly available.
